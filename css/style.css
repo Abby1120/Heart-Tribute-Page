@@ -1,0 +1,11 @@
+#main{
+  font-family: Baskerville;
+  background-color: #d3d3d3;
+  text-align: center;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
